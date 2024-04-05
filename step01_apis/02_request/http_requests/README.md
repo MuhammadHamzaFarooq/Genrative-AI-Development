@@ -1,22 +1,22 @@
 # Learn API Calling & Data Feching With Request Module
 
-- In python api calling & data feching with request module. Is similar to axios in javascript.
+In python api calling & data feching with request module. Is similar to axios in javascript.
 
-  ## HTTP Requests
+## HTTP Requests
 
-  We will use the simple book API to learn to call APIs:
+We will use the simple book API to learn to call APIs:
 
-  `https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md`
+`https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md`
 
-  Requests Documentation:
+Requests Documentation:
 
-  `https://requests.readthedocs.io/en/latest/`
+`https://requests.readthedocs.io/en/latest/`
 
-  Tutorial:
+Tutorial:
 
-  `https://ioflood.com/blog/python-requests/`
+`https://ioflood.com/blog/python-requests/`
 
-  ## Steps
+## Steps
 
       1. install request module for this package registry `https://pypi.org/`
       2. request module install commands: `poetry add request`. i have use for poetry as package manager but nomrally this command use for installing `pip install requests`
