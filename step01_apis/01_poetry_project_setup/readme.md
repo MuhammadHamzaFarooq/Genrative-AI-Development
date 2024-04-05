@@ -71,10 +71,10 @@ While Poetry is not specifically tailored for microservices, its features around
 # Poetry Commands
 
 1. `poetry --version`
-2. `poetry new project_youtube`
-3. `cd project_youtube`
+2. `poetry new poetry_project`
+3. `cd poetry_project`
 4. `poetry run python --version`
 5. `poetry add requests`
-6. `poetry run python ./project_youtube/main.py`
+6. `poetry run python ./poetry_project/main.py`
 7. `poetry add pytest`
 8. `poetry run pytest`
