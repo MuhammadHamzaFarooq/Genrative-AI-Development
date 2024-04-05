@@ -1,6 +1,6 @@
-# Generative AI Developement
+# Learn Genrative AI & Its Core Concepts
 
-## Generative Engineering (GenEng)
+1. ## Generative Engineering (GenEng)
 
 GenEng revolution being led by developers who build deep proficiency in how to best leverage and integrate generative AI technologies into applications
 
