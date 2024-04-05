@@ -15,3 +15,8 @@
   Tutorial:
 
   `https://ioflood.com/blog/python-requests/`
+
+  ## Steps
+
+      1. install request module for this package registry `https://pypi.org/`
+      2. request module install commands: `poetry add request`. i have use for poetry as package manager but nomrally this command use for installing `pip install requests`
